@@ -25,4 +25,19 @@
 .herostyle{
     font-family: 'Inter';
     font-weight: 600;
+    font-style: Semi Bold;
+    font-size: 44.55px;
+    line-height: 52.9px;
+    letter-spacing: 0%;
+
+}
+.Pstyle{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 11.14px;
+    line-height: 16.71px;
+    letter-spacing: 0%;
+    
+
 }
