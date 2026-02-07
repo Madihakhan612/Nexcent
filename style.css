@@ -1,0 +1,28 @@
+:root{
+    --PrimaryColor:#4CAF4F;
+    --SecondaryColor:#F5F7FA;
+
+
+}
+@font-face {
+    font-family: 'Inter';
+    src: url(./Fonts/Inter_28pt-Regular.ttf);
+}
+.green{
+    background-color: var(--PrimaryColor);
+}
+.style{
+    font-family: 'Inter';
+    font-weight: 500;
+
+}
+.Hero{
+    background-color: var(--SecondaryColor);
+}
+.colorgreen{
+    color: var(--PrimaryColor);
+}
+.herostyle{
+    font-family: 'Inter';
+    font-weight: 600;
+}
